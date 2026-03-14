@@ -267,6 +267,6 @@ This project demonstrates how multiple embedded peripherals can be integrated in
 This lab significantly improved practical embedded development skills and system design thinking.
 
 ---
-
+https://drive.google.com/drive/folders/1nR1mWUle-_6AaA9EN-zCaOUh2EQ1wU6z?usp=sharing
 
 Embedded Systems Skill Lab Project – 2026
