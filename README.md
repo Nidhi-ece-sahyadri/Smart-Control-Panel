@@ -267,8 +267,5 @@ This lab significantly improved practical embedded development skills and system
 
 ---
 
-# Author
-
-Shrinidhi
 
 Embedded Systems Skill Lab Project – 2026
