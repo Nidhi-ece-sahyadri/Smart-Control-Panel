@@ -114,7 +114,6 @@ Complete embedded control system.
 
 # Final Project – Smart Control Panel
 
-"C:\Users\YASHASVI\Downloads\capture_project\1. RESET_display modes.jpeg"
 
 ## Project Description
 
