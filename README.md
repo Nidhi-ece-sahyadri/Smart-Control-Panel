@@ -114,6 +114,8 @@ Complete embedded control system.
 
 # Final Project – Smart Control Panel
 
+"C:\Users\YASHASVI\Downloads\capture_project\1. RESET_display modes.jpeg"
+
 ## Project Description
 
 Smart Control Panel is a **menu driven embedded system** where the user selects operating modes using a keypad and the TFT display shows the active mode.
