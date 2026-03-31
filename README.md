@@ -11,101 +11,28 @@ The final outcome was a fully integrated embedded project called **Smart Control
 
 # One Week Skill Lab Schedule
 
-## Day 1 – STM32 Fundamentals
-Learned:
+## 7-Day Embedded Systems Skill Lab Summary
 
-• STM32 architecture basics  
-• STM32CubeMX configuration  
-• GPIO programming  
-• Digital input/output  
-• LED and push button interfacing  
+### Day 1 – STM32 Basics & GPIO Programming
+Learned STM32 architecture, STM32CubeIDE setup, GPIO configuration, and basic LED interfacing to understand digital input/output control.
 
-Outcome:
-Built foundation in STM32 peripheral configuration.
+### Day 2 – LED and Buzzer Interfacing
+Interfaced RGB LED and buzzer, implemented digital output control, and developed basic embedded control logic.
 
----
+### Day 3 – Polling and Interrupt Concepts
+Worked with push buttons using polling method and understood interrupt-based event handling for efficient event detection.
 
-## Day 2 – Output Device Interfacing
+### Day 4 – ADC and Analog Sensors
+Configured ADC and interfaced a rotary sensor to read analog values and control RGB LED behavior based on sensor input.
 
-Learned:
+### Day 5 – SPI Communication & TFT Display
+Interfaced ST7735 TFT display using SPI protocol and displayed text data from STM32 using display libraries.
 
-• RGB LED control  
-• Color generation logic  
-• Buzzer interfacing  
-• Sound pattern generation  
+### Day 6 – Multi-Peripheral Integration
+Integrated keypad, touch sensor, buttons, RGB LED, buzzer, and sensors into a single embedded application.
 
-Outcome:
-Understanding of actuator control.
-
----
-
-## Day 3 – Keypad Interfacing
-
-Learned:
-
-• Matrix keypad scanning
-• Row-column detection logic
-• UART debugging
-• User input handling
-
-Outcome:
-Implemented menu selection using keypad.
-
----
-
-## Day 4 – ADC and Analog Sensors
-
-Learned:
-
-• ADC configuration
-• Reading rotary sensor values
-• Mapping analog values
-• Sensor calibration basics
-
-Outcome:
-Understanding analog interfacing.
-
----
-
-## Day 5 – TFT Display Interfacing
-
-Learned:
-
-• SPI communication
-• ST7735 TFT display driver
-• Font libraries usage
-• Text rendering on display
-
-Outcome:
-Implemented display UI.
-
----
-
-## Day 6 – Sensor Integration
-
-Learned:
-
-• Touch sensor interfacing
-• Multi sensor monitoring
-• Embedded logic design
-• Peripheral integration
-
-Outcome:
-Built multi-input system.
-
----
-
-## Day 7 – Final Project Integration
-
-Integrated:
-
-• Keypad
-• TFT display
-• RGB LED
-• Buzzer
-• Rotary sensor
-• Touch sensor
-• Push buttons
+### Day 7 – Final Project Development
+Designed and implemented the **Smart Control Panel**, a menu-driven embedded system integrating all peripherals with multiple operating modes.
 
 Outcome:
 Complete embedded control system.
